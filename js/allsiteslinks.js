@@ -244,7 +244,7 @@ var links = ["https://t.co/1YnoaeivL1",
 "http://bit.ly/1ndAbw1",
 "https://t.co/DDkyH4So7M",
 "https://t.co/urlJtSnuWO",
-"https://t.co/OkxcBSwfCb",		
+"https://t.co/OkxcBSwfCb",	
 "https://t.co/2HqXPPNXik",
 "https://t.co/G3NcL1YXtL",
 "https://t.co/OkxcBSwfCb",		
@@ -481,6 +481,7 @@ var links = ["https://t.co/1YnoaeivL1",
 "http://bit.ly/20rXO2g",
 "http://bit.ly/1PRNCsA",
 "https://t.co/YZYXEIr3qA"];
+
 imgbtn.addEventListener("click", function(images) {
     Array.prototype.forEach.call(inputs, function (input) {
         input.value = names[Math.floor(Math.random() * names.length)];
