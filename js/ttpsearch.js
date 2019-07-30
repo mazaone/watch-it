@@ -51,7 +51,7 @@ var links = ["http://bit.ly/rentacdupm",
 "http://bit.ly/rentacdupm",
 "http://bit.ly/lifeinsurnce",
 "http://bit.ly/2SRiRP2",
-"http://bit.ly/2K4a1KJ"
+"http://bit.ly/2K4a1KJ",
 "http://bit.ly/rentacdupm",
 "http://bit.ly/lifeinsurnce",
 "http://bit.ly/rentacdupm",
