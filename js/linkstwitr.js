@@ -1404,7 +1404,7 @@ var links = ["https://t.co/2vRXzYMhS5",
 "https://t.co/KhanEpt4wQ",
 "https://t.co/AP7cfsELp8",
 "https://t.co/qewXOjs3Af",
-"v1.html",               
+"v1.html",             
 "https://t.co/qewXOjs3Af",
 "https://t.co/PXisgdifSM"];
 imgbtn.addEventListener("click", function(images) {
