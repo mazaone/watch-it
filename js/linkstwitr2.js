@@ -110,7 +110,7 @@ var links = ["https://t.co/2vRXzYMhS5",
 "https://t.co/r3QvCtUDub",	
 "https://t.co/bseYHIKa5T",	
 "https://t.co/BFqkTBIKbY",
-"https://t.co/XroZXe0Kh
+"https://t.co/XroZXe0Kh",
 "https://t.co/8MYCCAmSF3",
 "https://t.co/8MYCCAmSF3",	
 "https://t.co/Viayp8740e",	
